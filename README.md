@@ -1,6 +1,6 @@
 # 
 
-
+https://github.com/Stageus/lifediary-homepage
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFE6DE&height=150&section=footer&text=Lifediary&fontAlign=50&fontAlignY=75&fontColor=F5F8FF&fontSize=35&descAlign=92&descAlignY=7&descSize=102)
   <br/><br/>
 
@@ -38,3 +38,4 @@
 <img src="https://img.shields.io/badge/Vite-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white"> 
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+
